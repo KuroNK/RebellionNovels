@@ -1,0 +1,27 @@
+a{
+  font-size: 30px;
+  color:#715F8D;
+  text-decoration: none;
+  margin:10px 20px 10px 0px;
+}
+/* color del link */
+a:link {
+    color: #500B0B;
+}
+/* al pasar el mouse */
+a:hover{
+  text-decoration:underline;
+  background: black;
+  color: white;
+
+}
+/* al clickar */
+a:active{
+  background: gray;
+  color: black;
+
+}
+/* a los visitados */
+a:visited{
+  color: gray;
+}

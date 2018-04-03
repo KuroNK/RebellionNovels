@@ -1,0 +1,19 @@
+body{
+  background: black;
+}
+
+div{
+  background: #323232;
+  width: 100%;
+}
+
+img{
+  width:45%;
+  height: auto;
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+  /* box-shadow: 5px 5px 0px #222222; */
+  padding: 10px;
+  border: 1px solid black;
+}

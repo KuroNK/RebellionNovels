@@ -1,0 +1,13 @@
+p {
+    font-family: "Andale Mono";
+    font-size: 15pt;
+    font-weight: normal;
+    text-align: justify;
+    /* distancia entre lineas */
+    line-height: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: normal;
+    word-spacing: 2px;
+    text-shadow: 1px 1px 1px #000;
+}

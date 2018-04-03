@@ -1,0 +1,9 @@
+body{
+  background:url(../imagenes/809362.png);
+  background-repeat: no-repeat;
+  /* el comado de abajo me indica que el fondo no se movera
+  pero el contenido si*/
+  background-attachment: fixed;
+  /* sirve para darle pocicion al fondo */
+  background-position: center;
+}

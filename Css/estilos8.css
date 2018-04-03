@@ -1,0 +1,20 @@
+a{
+  font-size: 20px;
+  text-decoration: none;
+  margin: 10px 20px;
+  display: inline-block;
+  background: #93AED3;
+  color: white;
+  padding: 10px 20px;
+  box-shadow:0px 5px 0px #2F496B;
+}
+
+a:hover{
+  box-shadow: 0px 3px 0px #2F496B;
+
+}
+
+a:active{
+  box-shadow: none;
+
+}

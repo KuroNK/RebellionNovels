@@ -1,0 +1,6 @@
+h1{color: rgb(255, 255, 0)}
+
+h2 {color: #609D74}
+
+/* el RGBA inplementa la opcion de opacidad, o alpha */
+h3 {color: rgba(100,100,100,0.7)}

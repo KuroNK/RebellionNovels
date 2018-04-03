@@ -1,0 +1,32 @@
+div{
+  width: 100px;
+  height: 100px;
+  background: #4a88f4;
+  color: #fff;
+  font-size: 30px;
+  float: right;
+}
+
+.caja {
+    position: relative;
+    top:;
+    bottom:;
+    right:;
+    left:;
+}
+
+.caja2{
+  position: absolute;
+  top:;
+  bottom:;
+  right:;
+  left:;
+}
+
+.caja3{
+  position: fixed;
+  top:;
+  bottom:;
+  right:;
+  left:;
+}
